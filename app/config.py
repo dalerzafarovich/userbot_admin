@@ -1,4 +1,4 @@
-channel_id = 'textformating'  # id либо юзернейм канала
+channel_id = 'Hotline_Ufa'  # id либо юзернейм канала
 bot_token = '1069704894:AAFADsPveToRqnINmwHmz5xjrBRXs7sPWaU'  # токен бота
 bot_name = 'diamondssvolkbot'  # юзернейм бота
 
